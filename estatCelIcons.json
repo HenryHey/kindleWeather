@@ -1,0 +1,137 @@
+[
+  {
+    "codi": "-1",
+    "nom": "Error",
+    "icon": "icons/interrogant.png"
+  },
+  {
+    "codi": "1",
+    "nom": "Cel serè",
+    "icon": "icons/sol.png"
+  },
+  {
+    "codi": "2",
+    "nom": "Núvols alts",
+    "icon": "icons/nuvol.png"
+  },
+  {
+    "codi": "3",
+    "nom": "Entre poc i mig ennuvolat",
+    "icon": "icons/nuvol_sol.png"
+  },
+  {
+    "codi": "4",
+    "nom": "Molt ennuvolat",
+    "icon": "icons/molt_ennuvolat.png"
+  },
+  {
+    "codi": "5",
+    "nom": "Núvols mitjans amb plugims",
+    "icon": "icons/plugim.png"
+  },
+  {
+    "codi": "6",
+    "nom": "Pluja",
+    "icon": "icons/pluja.png"
+  },
+  {
+    "codi": "7",
+    "nom": "Xàfec",
+    "icon": "icons/xafec.png"
+  },
+  {
+    "codi": "8",
+    "nom": "Tempesta",
+    "icon": "icons/tempesta.png"
+  },
+  {
+    "codi": "9",
+    "nom": "Tempesta amb calamarsa",
+    "icon": "icons/tempesta.png"
+  },
+  {
+    "codi": "10",
+    "nom": "Nevada",
+    "icon": "icons/nevada.png"
+  },
+  {
+    "codi": "11",
+    "nom": "Boira",
+    "icon": "icons/nuvol.png"
+  },
+  {
+    "codi": "12",
+    "nom": "Boirina",
+    "icon": "icons/nuvol.png"
+  },
+  {
+    "codi": "13",
+    "nom": "Xàfec de neu",
+    "icon": "icons/nevada.png"
+  },
+  {
+    "codi": "20",
+    "nom": "Entre mig i molt ennuvolat",
+    "icon": "icons/molt_ennuvolat.png"
+  },
+  {
+    "codi": "21",
+    "nom": "Ennuvolat",
+    "icon": "icons/nuvol.png"
+  },
+  {
+    "codi": "22",
+    "nom": "Calitja",
+    "icon": "icons/sol.png"
+  },
+  {
+    "codi": "23",
+    "nom": "Mig ennuvolat amb ruixats",
+    "icon": "icons/pluja.png"
+  },
+  {
+    "codi": "24",
+    "nom": "Xàfec amb tempesta",
+    "icon": "icons/tempesta.png"
+  },
+  {
+    "codi": "25",
+    "nom": "Xàfec amb tempesta i calamarsa",
+    "icon": "icons/tempesta.png"
+  },
+  {
+    "codi": "26",
+    "nom": "Ruixat de neu",
+    "icon": "icons/nevada.png"
+  },
+  {
+    "codi": "27",
+    "nom": "Neu feble",
+    "icon": "icons/nevada.png"
+  },
+  {
+    "codi": "28",
+    "nom": "Xàfec de neu",
+    "icon": "icons/nevada.png"
+  },
+  {
+    "codi": "29",
+    "nom": "Xàfec d'aiguaneu",
+    "icon": "icons/nevada.png"
+  },
+  {
+    "codi": "30",
+    "nom": "Aiguaneu",
+    "icon": "icons/nevada.png"
+  },
+  {
+    "codi": "31",
+    "nom": "Molt ennuvolat amb ruixats",
+    "icon": "icons/xafec.png"
+  },
+  {
+    "codi": "32",
+    "nom": "Ennuvolat amb plugims",
+    "icon": "icons/plugim.png"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "jimptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js && code out.png"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-api-builder": "^4.1.2",
+    "dotenv": "^8.2.0",
+    "got": "^11.8.1",
+    "jimp": "^0.16.1"
+  }
+}
